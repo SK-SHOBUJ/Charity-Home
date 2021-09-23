@@ -232,7 +232,7 @@ float: left;
 
 /* background image */
 #background{
- background-image:url(../img/img.jpg);
+ background-image:url(img.jpg);
  background-repeat: no-repeat;
  background-size: 1300px;
  background-position: 100%;
@@ -828,7 +828,7 @@ padding: 80px 15px;
  
  .nine{
    
-   background-image: url('../img/img-fivten.jpg');
+   background-image: url('img-fivten.jpg');
    background-repeat: no-repeat;
    background-size: 1300px;
    width: 1300px;
