@@ -1158,7 +1158,7 @@ transition: 0.5s linear;
 
 #tharten{
   width: 1300px;
-  background-image: url('../img/img-nineten.jpg');
+  background-image: url('img-nineten.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   
